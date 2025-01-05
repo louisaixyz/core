@@ -21,10 +21,8 @@
 - 🚀 Autonomous Trading & Investment: Louis/ai agents can independently invest and trade cryptocurrencies, with NFT owners retaining control over their assets.
 - 🚀 Distinct Personalities: Each Louis/ai NFT exhibits a unique personality and communication style, adding a unique layer of character.
 - 🚀 Customizable Actions: Louis/ai NFT owners can define custom on-chain workflows for their AI agents, including automated trading, investment strategies, airdrop claiming, and DeFi interactions.
-- 💾 Social Connectivity: Louis/ai agents can connect to social platforms like Telegram, Twitter, and live streaming services.
-- 🚀 Highly extensible - create your own actions and clients
-- ☁️ Supports many models (local Llama, OpenAI, Anthropic, Groq, etc.)
-- 📦 Just works!
+- 🚀 Social Connectivity: Louis/ai agents can connect to social platforms like Telegram, Twitter, and live streaming services.
+
 
 ## 📦 Benefits of Owning an Louis/ai NFT:
 - 🚀 Beyond Collectibles: Louis/ai NFTs go beyond mere collectibles; they are practical tools that automate tasks like on-chain trading, airdrop claiming, and asset management.
