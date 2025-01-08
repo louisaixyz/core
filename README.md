@@ -6,7 +6,7 @@
 
 <div align="center">
 
- 🎯 [Wesbite](https://louisai.xyz) | 📖 [Documentation](https://elizaos.github.io/eliza/) |
+ 🎯 [Wesbite](https://louisai.xyz) | 📖 [Documentation](https://github.com/xNomad-AI/core) |
 
 </div>
 
